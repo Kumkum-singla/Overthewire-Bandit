@@ -50,4 +50,3 @@ localhost:30001
 - Some network services require SSL/TLS instead of a normal TCP connection.
 - `openssl s_client` can be used to securely communicate with SSL/TLS-enabled services.
 - After a secure connection is established, data can be sent and received just like a normal terminal session.
-```
