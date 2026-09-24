@@ -82,7 +82,7 @@ git clone ssh://bandit27-git@bandit.labs.overthewire.org:2220/home/bandit27-git/
 To remove the practice directory and its contents:
 
 ```bash
-rm -r -f bandit27
+rm -r bandit27
 ```
 
 `rmdir` only removes empty directories, while `rm -r` can remove a directory and its contents.
